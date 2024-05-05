@@ -74,7 +74,7 @@
 		<div class="title-container">
 			<br/>
 			<div class="title">
-				<h1><a href="#">Mail Casting Service</a></h1>							
+				<h1><a href="#">Mail Service</a></h1>							
 			</div>
 		</div>
 
